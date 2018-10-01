@@ -1,0 +1,25 @@
+arindam:
+  name:              Arindam Sinha
+  email:             arindam@arindam.io
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:             |
+    Arindam is a computer architect/engineer, with a keen interest in deep learning applications, algorithms that enable them and computing platforms that accelerate these solutions. 
+
+  # This photo will be used in the about section
+  # picture:
+  #   path:            https://arindam.io/assets/icons/sq_prof_256.jpg
+  #   # srcset is optional, but can be used to provide higher res versions for retina displays
+  #   srcset:
+  #     1x:            https://arindam.io/assets/icons/sq_prof_128.jpg
+  #     2x:            https://arindam.io/assets/icons/sq_prof_256.jpg
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    twitter:         _arindam_sinha
+    github:          arindamsinha
+    email:           arindam@arindam.io
+    linkedin:        sinhaarindam
